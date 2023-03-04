@@ -1,6 +1,10 @@
 '''
 TRY AND EXCEPT + ELSE AND FINALLY
 
+It´s used to handle exceptions or errors that may occur during the execution of a block of code. 
+'''
+
+'''
 Hypothetical situation where, if the user type a letter instead of a number on the 'Type the price of your product:' input, it will inform the user to type a value in numbers.
 '''
 
