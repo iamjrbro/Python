@@ -1,7 +1,7 @@
 '''
 CLASSES
 
-    1. Classes are used to group data and functions and can be reused;
+    1. Classes are used to agroup data and functions and can be reused;
     2. objects are parts inside a Class (instances);
     3. used to creat objects (instances);
     4. a Class name will always start with capital letter.
