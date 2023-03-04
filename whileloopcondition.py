@@ -1,6 +1,10 @@
 '''
 WHILE LOOP CONDITION
 
+Used to repeatedly execute a block of code as long as a specified condition is true
+'''
+
+'''
 Hypothetical ecommerce which has a 10% commission on top of the price of the product, if it has a value above $20.
 In this example, the loop has a break, that will stop the loop as soon as the result of the calculation return to the user.
 '''
